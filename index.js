@@ -1,6 +1,3 @@
-<html>
-<body>
-<script>
 var authConfig = {
     "siteName": "TheMovieStore", // 网站名称
     "root_pass": "aeiou.123",  // 根目录密码，优先于.password
@@ -311,6 +308,3 @@ String.prototype.trim = function (char) {
     }
     return this.replace(/^\s+|\s+$/g, '');
 };
-</script>
-</body>
-</html>
